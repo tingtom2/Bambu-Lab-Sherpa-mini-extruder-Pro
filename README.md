@@ -1,8 +1,30 @@
 # 拓竹挤出轮版Sherpa mini挤出机的多色版
 在[拓竹挤出轮版Sherpa mini挤出机](https://github.com/tingtom2/BambuLab-Sherpa-mini-extruder.git)的基础上添加了PCB组件，以满足兔子多色Happy Hare的耗材进入挤出机检测，以及进入喷嘴检测
-有两个方案可供选择，分别是微动接触式和光电无接触式
-物料在拓竹挤出轮版Sherpa mini挤出机的BOM上进行以下的添加
-| 微动接触式 | 光电无接触式 |
+
+
+有两个方案可供选择，分别是微动接触式触发和光电无接触式触发
+
+
+拓竹挤出轮版Sherpa mini挤出机原版介绍及组装视频https://www.bilibili.com/video/BV1nVLyzjEuQ/?share_source=copy_web&vd_source=684b9369c5f1a47552ffbf5cceab4d0c
+
+拓竹挤出轮版Sherpa mini挤出机的多色版介绍及组装视频
+
+
+
+物料在拓竹挤出轮版Sherpa mini挤出机的BOM上进行添加
+
+| 物料  | 数量 |
+| ------------- | ------------- |
+| 36mm斜齿电机  |  1  |
+| 拓竹X1/P1P系列挤出机齿轮（含轴承）  | 1  |
+| M3*25mm  | 2  |
+| M3*6mm | 2  |
+| M3*15mm  | 2  |
+| 直径3mm*18mm圆柱销  | 1  |
+| 直径3mm*14mm圆柱销  | 1  |
+| 热熔螺母M3*4*5mm  | 5  |
+
+|微动接触式 | 光电无接触式 |
 | ------------- | ------------- |
 |   5mm的钢珠*2 |      \       |
 | M2x6mm自攻螺丝*2  | M2x6mm自攻螺丝*2  |
