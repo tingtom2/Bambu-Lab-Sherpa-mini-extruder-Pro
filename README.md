@@ -9,7 +9,7 @@
 
 拓竹挤出轮版Sherpa mini挤出机原版介绍及组装视频https://www.bilibili.com/video/BV1nVLyzjEuQ/?share_source=copy_web&vd_source=684b9369c5f1a47552ffbf5cceab4d0c
 
-拓竹挤出轮版Sherpa mini挤出机的多色版介绍及组装视频
+拓竹挤出轮版Sherpa mini挤出机的多色版介绍及组装视频【带双传感器的SherpaMini挤出机【开源】】 https://www.bilibili.com/video/BV18FTKzAEFA/?share_source=copy_web&vd_source=684b9369c5f1a47552ffbf5cceab4d0c
 
 
 
