@@ -12,6 +12,7 @@
 拓竹挤出轮版Sherpa mini挤出机的多色版介绍及组装视频【带双传感器的SherpaMini挤出机【开源】】 https://www.bilibili.com/video/BV18FTKzAEFA/?share_source=copy_web&vd_source=684b9369c5f1a47552ffbf5cceab4d0c
 
 
+结构件最好选用ABS耗材打印，100%填充，主体件需要开启支撑
 
 物料在拓竹挤出轮版Sherpa mini挤出机的BOM上进行添加
 
